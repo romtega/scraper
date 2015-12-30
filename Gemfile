@@ -53,6 +53,8 @@ gem 'devise'
 
 gem "validate_url"
 
+gem "nokogiri"
+
 
 
 
